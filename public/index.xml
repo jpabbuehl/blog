@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on The Pipeline</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on The Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright ©2026, Jean-Paul Abbuehl.</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;&#xA;&lt;p&gt;Currently Position: Global AI Strategy Lead at Hoffmann-La Roche&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worked across R&amp;amp;D, Manufacturing, Supply Chain, Commercialization and Partnering&lt;/li&gt;&#xA;&lt;li&gt;Conceptualized and strategized execution of enterprise AI initiatives&lt;/li&gt;&#xA;&lt;li&gt;Driven by making innovation useful and impactful&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing research content&lt;/li&gt;&#xA;&lt;li&gt;Learning new technologies&lt;/li&gt;&#xA;&lt;li&gt;Exploring medical advancements&lt;/li&gt;&#xA;&lt;li&gt;Shipping production-ready solutions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tooling&#34;&gt;Tooling&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pen and Paper&lt;/li&gt;&#xA;&lt;li&gt;Vim&lt;/li&gt;&#xA;&lt;li&gt;GitOps&lt;/li&gt;&#xA;&lt;li&gt;Kubernetes&lt;/li&gt;&#xA;&lt;li&gt;Typescript&lt;/li&gt;&#xA;&lt;li&gt;Rust&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;TDD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PhD in Life Science and technologies EPFL&lt;/li&gt;&#xA;&lt;li&gt;Master&amp;rsquo;s in Computer Science&lt;/li&gt;&#xA;&lt;li&gt;Bachelor&amp;rsquo;s in Computer Science&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;continuous-education&#34;&gt;Continuous Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;INSEAD Business School&lt;/li&gt;&#xA;&lt;li&gt;RAPS Regulatory Affairs Professional Society&lt;/li&gt;&#xA;&lt;li&gt;ICH-GCP Good Clinical Practice&lt;/li&gt;&#xA;&lt;li&gt;Certified Kubernetes CKA/CKAD/CKS&lt;/li&gt;&#xA;&lt;li&gt;Linux Foundation Certified System Administrator (LFCS)&lt;/li&gt;&#xA;&lt;li&gt;AWS Professional and specialty certifications&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Past</title>
+      <link>http://localhost:1313/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/past/</guid>
+      <description>&lt;h1 id=&#34;past-projects&#34;&gt;Past Projects&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personalized Content for omnichannel engagement (2025)&lt;/li&gt;&#xA;&lt;li&gt;Co-pilot Due Diligence (2025)&lt;/li&gt;&#xA;&lt;li&gt;Deep Research for Business insights (2025)&lt;/li&gt;&#xA;&lt;li&gt;GenAI Content Supply Chain (2024)&lt;/li&gt;&#xA;&lt;li&gt;Resource Allocation and Portfolio Strategy (2023)&lt;/li&gt;&#xA;&lt;li&gt;Early indicators for Pre-launch Excellence (2022)&lt;/li&gt;&#xA;&lt;li&gt;Pharma Digital Web Competitive Engagement (2022)&lt;/li&gt;&#xA;&lt;li&gt;Hybrid outsourcing in clinical trials (2021)&lt;/li&gt;&#xA;&lt;li&gt;Clinical Services Vendor Management (2021)&lt;/li&gt;&#xA;&lt;li&gt;Global migration of Clinical Operations into new R&amp;amp;D hub (2021)&lt;/li&gt;&#xA;&lt;li&gt;Production Scheduler for manufacturing plant (2020)&lt;/li&gt;&#xA;&lt;li&gt;AI-driven internal Talent Management (2019)&lt;/li&gt;&#xA;&lt;li&gt;Marketing Mix Modelling for over-the-counter drugs (2018)&lt;/li&gt;&#xA;&lt;li&gt;Procurement Spend Monitoring (2017)&lt;/li&gt;&#xA;&lt;li&gt;Enterprise Data Governance for Pharma linked Data (2017)&lt;/li&gt;&#xA;&lt;li&gt;Search Engine for public healthcare literacy (2017)&lt;/li&gt;&#xA;&lt;li&gt;Novel Hematopoietic stem cell transplantation (2016)&lt;/li&gt;&#xA;&lt;li&gt;Preclinical Research for drug discovery of breast cancer metastasis (2016)&lt;/li&gt;&#xA;&lt;li&gt;3D Light-sheet imaging and Terabyte-scale Image Analysis (2015)&lt;/li&gt;&#xA;&lt;li&gt;Multi-omics Profiling for Precision Oncology (2014)&lt;/li&gt;&#xA;&lt;li&gt;High-throughput Stem Cell screening using microfluidics (2013)&lt;/li&gt;&#xA;&lt;li&gt;Synergistic combinatorial cancer drug discovery (2012)&lt;/li&gt;&#xA;&lt;li&gt;Predictive Modeling of Drug Sensitivity in Oncology (2011)&lt;/li&gt;&#xA;&lt;li&gt;Isolation of Bone Marrow Stem Cells (2009)&lt;/li&gt;&#xA;&lt;li&gt;Adeno-associated virus-based cancer gene therapy (2007)&lt;/li&gt;&#xA;&lt;li&gt;Deep Learning for Breast Cancer Patient Prognosis (2007)&lt;/li&gt;&#xA;&lt;li&gt;Laboratory Research Assistant Immunology (2006)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
